@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jacob-star-wars-tic-tac-toe/static/css/main.073c9b0a.css",
+    "main.js": "/jacob-star-wars-tic-tac-toe/static/js/main.efed07ee.js",
+    "static/js/787.1325f4d6.chunk.js": "/jacob-star-wars-tic-tac-toe/static/js/787.1325f4d6.chunk.js",
+    "index.html": "/jacob-star-wars-tic-tac-toe/index.html",
+    "main.073c9b0a.css.map": "/jacob-star-wars-tic-tac-toe/static/css/main.073c9b0a.css.map",
+    "main.efed07ee.js.map": "/jacob-star-wars-tic-tac-toe/static/js/main.efed07ee.js.map",
+    "787.1325f4d6.chunk.js.map": "/jacob-star-wars-tic-tac-toe/static/js/787.1325f4d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.efed07ee.js"
+  ]
+}
